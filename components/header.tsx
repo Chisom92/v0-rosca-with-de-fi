@@ -18,8 +18,8 @@ export function Header({ walletConnected, onConnectWallet, walletAddress }: Head
             <CircleDollarSign className="h-6 w-6 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-foreground">StellarCircle</h1>
-            <p className="text-xs text-muted-foreground">Cross-Border ROSCA</p>
+            <h1 className="text-xl font-bold text-foreground">TrustLoop</h1>
+            <p className="text-xs text-muted-foreground">Credit-Scored DeFi Savings</p>
           </div>
         </div>
 

@@ -217,8 +217,7 @@ export default function Home() {
               Finance without the middleman.
             </h1>
             <p className="mx-auto mt-4 max-w-2xl text-pretty text-lg text-muted-foreground">
-              Join trusted savings circles with your community. Cross-border remittances
-              and rotating payouts powered by Stellar blockchain.
+              Cross-border savings circles with on-chain credit scoring. Rotating payouts powered by Stellar blockchain.
             </p>
             <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
               <CreateCircleDialog onCreateCircle={handleCreateCircle} />

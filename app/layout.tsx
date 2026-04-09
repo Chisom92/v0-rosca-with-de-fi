@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'StellarCircle - Cross-Border ROSCA on Stellar',
-  description: 'Decentralized rotating savings and credit association with default protection on Stellar blockchain',
+  title: 'TrustLoop - Credit-Scored DeFi Savings on Stellar',
+  description: 'Decentralized rotating savings circles with on-chain credit scoring and default protection on Stellar blockchain',
   generator: 'v0.app',
   icons: {
     icon: [
