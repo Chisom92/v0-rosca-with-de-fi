@@ -378,4 +378,4 @@ MIT
 
 > Built on Stellar / Soroban. Financial inclusion without banks. Peer-to-peer trust for the global diaspora.
 
-<a href="https://v0.app/chat/api/kiro/clone/Chisom92/v0-rosca-with-de-fi" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+
